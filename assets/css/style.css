@@ -67,7 +67,7 @@ main {
     margin-left: 20px;
 }
 
-.content {
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -76,7 +76,7 @@ main {
     color: #ffffff;
 }
 
-.content img {
+article img {
     max-height: 200px;
 }
 
